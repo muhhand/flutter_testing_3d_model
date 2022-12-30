@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Screenshot](Screenshot 2022-12-30 215230.png)
+![Screenshot](test.png)
 
 ## Getting Started
 
